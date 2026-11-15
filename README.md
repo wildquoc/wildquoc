@@ -1,9 +1,8 @@
-## About Me
-
 <div align="center">
   <img width="800" height="131" alt="phamkienquoc_banner" src="https://github.com/user-attachments/assets/b6853188-744d-4d19-9ce3-fabd5a39ca3c" />
 </div>
 
+## About Me
 <div align="justify">
 As an Artificial Intelligence - AI student driven by an ardent passion for both empirical technology and the fine arts, I thrive at the nexus of cutting-edge innovation and profound artistic expression. I channel my boundless ingenuity toward advancing the frontiers of AI Robotics while simultaneously transcending conventional boundaries in music, cinema and visual arts. Anchored by an unwavering conviction in my own potential, I am dedicated to sculpting a future where algorithmic precision and limitless human creativity converge in seamless harmony.
 </div>
